@@ -1,2 +1,2 @@
 # skripsi
-dibuat untuk menyelesaikan studi informatika.
+dibuat sebagai lampiran skripsi.
