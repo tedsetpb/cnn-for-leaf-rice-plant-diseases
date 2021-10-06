@@ -1,4 +1,4 @@
-# skripsi
+# CNN for leaf rice plant diseases
 dibuat sebagai lampiran skripsi.
 
 untuk mengakses dataset, dapat mengunjungi link berikut.
